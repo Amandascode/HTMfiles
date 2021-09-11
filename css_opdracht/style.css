@@ -1,0 +1,12 @@
+body {color: darkslategray;
+font-size: x-large; background-color: burlywood;
+}
+.black-border {border: 2px dotted green; font-family: Arial, Helvetica, sans-serif;
+}
+#green-background {background-color: lightgreen;
+    color: black;
+}
+#project {background-color: lightskyblue;} 
+#eerste {color:maroon;}
+#tweede{color:midnightblue;}
+nav, footer {background-color: lightseagreen;}
